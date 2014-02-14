@@ -25,3 +25,4 @@
 - consider to move to a other technology, like Nods.JS
 - use css preprocessor (LESS | SASS)
 - add option to list already booked appointments
+- improve appointment availability recognition for larger project (just use data for the day(s) of request, not all)
