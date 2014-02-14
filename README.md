@@ -24,3 +24,4 @@
 - use php framework, to have a stable basement for growing
 - consider to move to a other technology, like Nods.JS
 - use css preprocessor (LESS | SASS)
+- add option to list already booked appointments
